@@ -1,0 +1,406 @@
+body{
+  background-color: #fff;
+  font-family: sans-serif;
+}
+.td {
+  position: absolute;
+  top: 4.75rem;
+  left: 3.56rem;
+  color: red;
+  font-family: sans-serif;
+}
+
+.tdc{
+  color: red;
+  font-family: sans-serif;
+  font-size: 1.5rem;
+}
+.gamazin{
+  font-family: sans-serif;
+  font-size: 1.5rem;
+}
+.gamazine1,
+.our-services {
+  position: absolute;
+  font-size: 1.5rem;
+  top: 4.75rem;
+  left: 6.38rem;
+  font-family: sans-serif;
+}
+.our-services {
+  top: 10.69rem;
+  left: 35.63rem;
+  font-weight: 500;
+}
+.desktop-1-child,
+.desktop-1-child1,
+.desktop-1-child2,
+.desktop-1-child3,
+.desktop-1-child4,
+.desktop-1-inner,
+.desktop-1-item,
+.ellipse-div {
+  position: absolute;
+  top: 21.59rem;
+  left: 4.53rem;
+  border-radius: 50%;
+  background-color: rgba(0, 0, 0, 0.2);
+  backdrop-filter: blur(4px);
+  border: 5px solid #f1eded;
+  box-sizing: border-box;
+  width: 10.94rem;
+  height: 10.56rem;
+  mix-blend-mode: exclusion;
+}
+.desktop-1-child1,
+.desktop-1-child2,
+.desktop-1-child3,
+.desktop-1-child4,
+.desktop-1-inner,
+.desktop-1-item,
+.ellipse-div {
+  top: 22.53rem;
+  left: 29.53rem;
+}
+.desktop-1-child1,
+.desktop-1-child2,
+.desktop-1-child3,
+.desktop-1-child4,
+.desktop-1-inner,
+.ellipse-div {
+  top: 39.09rem;
+}
+.desktop-1-child1,
+.desktop-1-child2,
+.desktop-1-child3,
+.desktop-1-child4,
+.ellipse-div {
+  left: 4.53rem;
+}
+.desktop-1-child1,
+.desktop-1-child2,
+.desktop-1-child3,
+.desktop-1-child4 {
+  top: 23.28rem;
+  left: 53.41rem;
+}
+.desktop-1-child2,
+.desktop-1-child3,
+.desktop-1-child4 {
+  top: 39.09rem;
+}
+.desktop-1-child3,
+.desktop-1-child4 {
+  top: 22.53rem;
+  left: 77.28rem;
+}
+.desktop-1-child4 {
+  top: 39.09rem;
+}
+.img-1-icon {
+  position: absolute;
+  top: 23.44rem;
+  left: 6.38rem;
+  width: 7.31rem;
+  height: 6.88rem;
+  object-fit: cover;
+}
+.panting {
+  position: absolute;
+  top: 32.94rem;
+  left: 5.56rem;
+  font-weight: 500;
+  font-family: sans-serif;
+}
+.pavement,
+.plastering,
+.repair,
+.waterproofing {
+  position: absolute;
+  top: 33.44rem;
+  left: 29.69rem;
+  font-weight: 500;
+  font-family: sans-serif;
+}
+.pavement,
+.plastering,
+.repair {
+  top: 33.94rem;
+  left: 54.56rem;
+  font-family: sans-serif;
+}
+.pavement,
+.repair {
+  top: 33.69rem;
+  left: 77.94rem;
+  font-family: sans-serif;
+}
+.repair {
+  top: 50.19rem;
+  left: 79.69rem;
+  display: inline-block;
+  width: 6.13rem;
+  height: 2.19rem;
+  font-family: sans-serif;
+}
+.img-3-icon {
+  position: absolute;
+  top: 21.75rem;
+  left: 52.44rem;
+  width: 12.74rem;
+  height: 12.89rem;
+  object-fit: cover;
+}
+.building,
+.maintanance,
+.renovation {
+  position: absolute;
+  top: 49.94rem;
+  left: 53.44rem;
+  font-weight: 500;
+  font-family: sans-serif;
+}
+.building,
+.maintanance {
+  left: 29.94rem;
+}
+.building {
+  top: 50.44rem;
+  left: 5.56rem;
+}
+.img-2-icon,
+.img-4-icon {
+  position: absolute;
+  top: 23.44rem;
+  left: 29.94rem;
+  width: 9rem;
+  height: 9.5rem;
+  object-fit: cover;
+}
+.img-4-icon {
+  top: 23.88rem;
+  left: 79.06rem;
+  width: 7.31rem;
+  height: 8.69rem;
+}
+.icons8-construction-tools-64-11,
+.img-5-icon {
+  position: absolute;
+  top: 40.25rem;
+  left: 6.31rem;
+  width: 7.38rem;
+  height: 8.25rem;
+  object-fit: cover;
+}
+.icons8-construction-tools-64-11 {
+  top: 41.38rem;
+  left: 31.81rem;
+  width: 6.38rem;
+  height: 6.06rem;
+}
+.img-6-icon,
+.img-7-icon,
+.img-8-icon {
+  position: absolute;
+  top: 40.38rem;
+  left: 54.56rem;
+  width: 8.13rem;
+  height: 7.06rem;
+  object-fit: cover;
+}
+.img-7-icon,
+.img-8-icon {
+  left: 79.06rem;
+  width: 7.06rem;
+  height: 8.13rem;
+}
+.img-8-icon {
+  top: 4rem;
+  left: 82.31rem;
+  width: 4.06rem;
+  height: 3.88rem;
+}
+.connect-with-us {
+  position: absolute;
+  top: 55.63rem;
+  left: 39.19rem;
+  font-family: sans-serif;
+}
+.img-10-icon,
+.img-11-icon,
+.img-12-icon,
+.img-9-icon {
+  position: absolute;
+  top: 59.44rem;
+  left: 24.94rem;
+  width: 4.75rem;
+  height: 4.75rem;
+  object-fit: cover;
+}
+.img-10-icon,
+.img-11-icon,
+.img-12-icon {
+  left: 37.81rem;
+  width: 5rem;
+  height: 5rem;
+}
+.img-11-icon,
+.img-12-icon {
+  top: 59.06rem;
+  left: 50.94rem;
+  width: 5.13rem;
+  height: 5.13rem;
+}
+.img-12-icon {
+  top: 59.25rem;
+  left: 64.19rem;
+  width: 5.31rem;
+  height: 4.75rem;
+}
+.desktop-1-child5 {
+  position: absolute;
+  top: 71.06rem;
+  left: 0;
+  background-color: #fff;
+  width: 90rem;
+  height: 6.13rem;
+}
+.copyright-tdgamazinecom {
+  position: absolute;
+  top: 72.94rem;
+  left: 27.88rem;
+  font-family: sans-serif;
+}
+.desktop-1 {
+  position: relative;
+  width: 100%;
+  height: 77.19rem;
+  overflow: hidden;
+  text-align: left;
+  font-size: 1.5rem;
+  color: #000;
+  font-family: Inter;
+}
+@media screen and (max-width: 960px) {
+  .desktop-1 {
+    opacity: 0;
+}
+}
+@media screen and (max-width: 420px) {
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+
+.logo a{
+  text-decoration: none;
+  font-size: 1.5rem;
+  color: #000;
+  margin-left: 15px;
+  font-weight: bold;
+}
+
+.logo h2{
+  text-align: center;
+}
+
+.tdg{
+  color: red;
+}
+
+.gallery__img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.gallery__item--1{
+  grid-column-start: 1;
+  grid-column-end: 3;
+  grid-row-start: 1;
+  grid-row-end: 3;
+}
+
+.gallery__item--2{
+  grid-column-start: 3;
+  grid-column-end: 5;
+  grid-row-start: 1;
+  grid-row-end: 3;
+}
+
+.gallery__item--3{
+  grid-column-start: 5;
+  grid-column-end: 9;
+  grid-row-start: 1;
+  grid-row-end: 6;
+}
+
+.gallery__item--4{
+  grid-column-start: 1;
+  grid-column-end: 5;
+  grid-row-start: 3;
+  grid-row-end: 6;
+}
+
+.gallery__item--5{
+  grid-column-start: 1;
+  grid-column-end: 5;
+  grid-row-start: 6;
+  grid-row-end: 9;
+}
+
+.gallery__item--6{
+  grid-column-start: 5;
+  grid-column-end: 9;
+  grid-row-start: 6;
+  grid-row-end: 9;
+}
+
+.gallery__item--7{
+  grid-column-start: 1;
+  
+}
+
+.gallery1{
+  width: 0%;
+  margin: ;
+}
+
+.gallery{
+  display: grid;
+  grid-template-columns: repeat(8, 1fr);
+  grid-template-rows: repeat(8, 5vw);
+  grid-gap: 1.5rem;
+}
+
+.gallery__img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+/* Create four equal columns that sits next to each other */
+
+
+/* Responsive layout - makes a two column-layout instead of four columns */
+@media screen and (max-width: 800px) {
+  .column {
+    flex: 100%;
+    max-width: 50%;
+  }
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+
+  .socialLinks a img{
+    padding-left: 3.5rem;
+  }
+  .socialLinks h3{
+    text-align: center;
+  }
+}

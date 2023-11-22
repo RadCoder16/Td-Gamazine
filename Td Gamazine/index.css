@@ -1,0 +1,427 @@
+.gamazine {
+  color: #000;
+  font-size: 1.5rem;
+}
+.td-gamazine {
+  position: absolute;
+  top: 1.5rem;
+  left: 1rem;
+  color: red;
+  font-size: 1.5rem;
+}
+
+a{ 
+  text-decoration: none; 
+  color: black; 
+  font-size: 1.3rem; 
+  font-weight: bold; 
+} 
+
+/* navbar styling */
+.navbar{ 
+  display: flex; 
+  height: 5rem; 
+  justify-content: space-between; 
+  align-items: center; 
+  padding-top: 1rem; 
+  border-bottom: 2px solid rgb(223, 251, 219); 
+} 
+
+/* logo style  */
+.logo a{
+  padding-left: 1px;
+}
+
+.td{
+  color: red;
+}
+.myButton{
+  padding: 10px 20px;
+  font-size: 16px;
+  color: #fff;
+  background-color: #007bff;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  margin-top: 5px;
+  margin-left:20px;
+}
+.myButton:hover{
+  background-color: #0056b3;
+}
+.paragraph{
+  font-size: 25px;
+  padding-left: 20px;
+  margin-top: 10rem;
+}
+
+.hamburger-menu{ 
+  padding-right: 8rem; 
+  cursor: pointer; 
+} 
+
+.hamburger-menu .line{ 
+ display: block; 
+ width:2rem; 
+ height: 2px; 
+ margin-bottom: 10px; 
+ background-color: black; 
+ cursor: pointer; 
+} 
+
+.nav-menu{ 
+  position: fixed; 
+  width: 94%; 
+  top: 4rem; 
+  left: 10rem; 
+  background-color: rgb(255, 255, 255); 
+  font-weight: 600; 
+
+} 
+.nav-menu a{ 
+  display: block; 
+  text-align: left; 
+  padding: 20px 0; 
+} 
+.nav-menu a:hover{ 
+  background-color: rgb(223, 251, 219); 
+} 
+
+.hide{ 
+  display: none; 
+} 
+
+/* for Desktop view  */
+@media screen and (min-width:600px){ 
+  .navbar{ 
+      justify-content: space-around; 
+  } 
+  .nav-menu{ 
+      display: block; 
+      position: static; 
+      width: auto; 
+      margin-right:20px; 
+      background: none; 
+  } 
+  .nav-menu a{ 
+      display: inline-block; 
+      padding: 15px 20px; 
+  } 
+  .nav-menu a:hover{ 
+      background-color: rgb(223, 251, 219); 
+      border-radius: 5px; 
+  } 
+  .hamburger-menu{ 
+      display: none; 
+  } 
+}
+
+.nav-list{
+  list-style: none;
+  float: right;
+}
+
+.nav-list li{
+  display: inline-block;
+  margin-right: 20px;
+  font-size: 1.2rem;
+  text-decoration: none;
+}
+
+.nav-list li a{
+  text-decoration: none;
+  color: #000;
+} 
+
+.about,
+.home,
+.services {
+  position: absolute;
+  top: 1.5rem;
+  left: 59.38rem;
+  font-size: 1.5rem;
+}
+
+.about,
+.services {
+  left: 75.6rem;
+  font-size: 1.5rem;
+}
+.services {
+  left: 66.13rem;
+  font-size: 1.5rem;
+}
+.td-gamazine-is {
+  margin: 0;
+}
+.td-gamazine-is-container {
+  position: absolute;
+  top: 13.38rem;
+  left: 1.5rem;
+  display: inline-block;
+  width: 66.63rem;
+}
+.desktop-2-child {
+  position: absolute;
+  top: 29.19rem;
+  left: 1.5rem;
+  border-radius: 32px;
+  background-color: #000;
+  width: 12.38rem;
+  height: 3.88rem;
+}
+.desktop-2-item,
+.enroll {
+  position: absolute;
+  left: 4.56rem;
+}
+
+
+.enroll {
+  top: 29.75rem;
+  font-size: 2.25rem;
+  color: #fff;
+}
+.desktop-2-item {
+  top: 44.75rem;
+  border-radius: 7px;
+  background-color: #fff;
+  width: 7.69rem;
+  height: 6.81rem;
+}
+.icons8-construction-tools-64-1 {
+  position: absolute;
+  top: 32.69rem;
+  left: 6.38rem;
+  width: 4.44rem;
+  height: 5rem;
+  object-fit: cover;
+}
+.desktop-2-inner,
+.rectangle-div {
+  position: absolute;
+  top: 32.69rem;
+  left: 21.63rem;
+  border-radius: 7px;
+  background-color: #fff;
+  width: 7.69rem;
+  height: 6.81rem;
+}
+.rectangle-div {
+  left: 38.69rem;
+}
+.icons8-crane-100-1 {
+  position: absolute;
+  top: 20.5rem;
+  left: 65.5rem;
+  width: 17.31rem;
+  height: 16.75rem;
+  object-fit: cover;
+}
+.icons8-bar-graph-50-1,
+.icons8-tick-50-1 {
+  position: absolute;
+  top: 32.69rem;
+  left: 40.13rem;
+  width: 5.5rem;
+  height: 4rem;
+  object-fit: cover;
+}
+.icons8-bar-graph-50-1 {
+  top: 32.69rem;
+  left: 23rem;
+  width: 5rem;
+  height: 5rem;
+}
+footer{
+  margin: auto;
+  color:#ffffff;
+  background-color:black;
+ text-align: center;
+ min-height: 25px;
+}
+
+.crane{
+  width: 200px;
+  height: 200px;
+}
+
+.container{
+  width:90%;
+  margin:auto;
+  overflow:hidden;
+}
+
+.container a button{
+  color: #fff;
+  background-color: #0056b3;
+  border-radius: 30%;
+  text-decoration: none;
+  font-size: 1.5rem;
+}
+
+.container button{
+  padding-right: 20rem;
+}
+
+@media(max-width: 768px){
+  header #branding,
+  header nav,
+  header nav li,
+  #newsletter h1,
+  #newsletter form,
+  #boxes .box,
+  article#main-col,
+  aside#sidebar{
+    float:none;
+    text-align:center;
+    width:100%;
+  }
+}
+#boxes{
+  margin-top:20px;
+}
+
+#boxes .box{
+  float:left;
+  text-align: center;
+  width:30%;
+  padding:10px;
+}
+
+#boxes .box img{
+  width:90px;
+}
+.at-your-service {
+  position: absolute;
+  top: 37rem;
+  left: 67.1rem;
+  font-weight: 600;
+  font-size: 20px;
+}
+.desktop-2 {
+  text-decoration: none;
+  position: relative;
+  background-color: rgba(238, 238, 238, 0.8);
+  width: 100%;
+  height: 64rem;
+  overflow: hidden;
+  text-align: left;
+  font-size: 2rem;
+  color: #000;
+  font-family: Inter;
+}
+@media screen and (max-width: 1200px) {
+  .desktop-2 {
+    opacity: 1;
+  }
+  .desktop-2.animate {
+    animation: 1s ease 0s 1 normal forwards flip-horizontal-bottom;
+  }
+  @keyframes flip-horizontal-bottom {
+    0% {
+      transform: rotateX(0);
+    }
+    to {
+      transform: rotateX(-180deg);
+    }
+  }
+}
+@media screen and (max-width: 960px) {
+  .desktop-2 {
+    border: 1px solid #000;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 767px) {
+  .desktop-2:hover {
+    display: flex;
+  }
+  .td-gamazine-is-container p{
+    font-size: 14px;
+    margin-bottom: 10px;
+  
+  }
+  .paragraph{
+    font-size: 14px;
+    padding-left: 5px;
+  }
+  .my-images{
+    display: flex;
+    flex-direction: row;
+  }
+  .td-gamazine-is-container p{
+  font-size: 14px;
+  margin-right: 2rem;
+  left: 8rem;
+}
+.icons8-bar-graph-50-1 {
+  top: 40.55rem;
+  left: 8rem;
+  width: 2.8rem;
+  height: 3rem;
+}
+.icons8-tick-50-1{
+  top: 40.55rem;
+  left: 14rem;
+  width: 4rem;
+  height: 3rem;
+}
+.icons8-construction-tools-64-1{
+  top: 40.55rem;
+  left: 1rem;
+  width: 2.8rem;
+  height: 3rem;
+}
+.at-your-service {
+  top: 28.69rem;
+  left: 2.5rem;
+  font-size: 18px;
+}
+.icons8-crane-100-1 {
+  position: absolute;
+  top: 28.5rem;
+  left: 2.5rem;
+  width: 8.31rem;
+  height: 9.75rem;
+  object-fit: cover;
+}
+.enroll {
+  top: 19.55rem;
+  font-size: 1.25rem;
+  color: #fff;
+}
+.desktop-2-child {
+  position: absolute;
+  top: 19.19rem;
+  left: 1.5rem;
+  border-radius: 32px;
+  background-color: #000;
+  width: 9.38rem;
+  height: 2.58rem;
+}
+.at-your-service{
+  left: 1.5rem;
+  top: 38.8rem;
+  display: inline;
+  font-size: 18px;
+}
+.menu-toggle{
+  display: block;
+  position: absolute;
+  top: px;
+  left: 250px;
+}
+.nav-list{
+  display: none;
+  text-align: center;
+  background-color: #333;
+  position: absolute;
+  top: 50px;
+  left: 0;
+  right: 0;
+  z-index: 1;
+  width: 100px;
+}
+
+}
